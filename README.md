@@ -9,12 +9,12 @@ API RESTful para gerenciamento de catálogo de produtos de e-commerce.
 - DOTENV
 
 ## Requisitos Funcionais Atendidos
--  RF01 - Cadastro com esquema dinâmico (especificações)
--  RF02 - Filtros por categoria e faixa de preço
--  RF03 - Busca textual por nome e descrição
--  RF04 - Paginação e ordenação por preço
--  RF05 - Atualização com incremento atômico ($inc)
--  RF06 - Remoção de produtos
+-  RF01 - Cadastro de Produtos com Esquema Dinâmico
+-  RF02 - Consulta com Filtros Compostos
+-  RF03 - Busca Textual
+-  RF04 - Paginação e Ordenação de Resultados
+-  RF05 - Atualização do Estoque e Dados
+-  RF06 - Remoção de Produtos
 
 ## Como executar
 
